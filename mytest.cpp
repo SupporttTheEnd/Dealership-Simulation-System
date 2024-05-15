@@ -3,7 +3,6 @@
 // Date: 11/27/2023
 // Description: This is the test file for dealer.cpp
 
-// CMSC 341 - Fall 2023 - Project 4
 #include "dealer.h"
 #include <random>
 #include <vector>
