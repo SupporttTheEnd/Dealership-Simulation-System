@@ -1,4 +1,3 @@
-// UMBC - CMSC 341 - Fall 2023 - Proj4
 // Title: dealer.cpp
 // Author: Andrew Tang
 // Date: 11/27/2023
