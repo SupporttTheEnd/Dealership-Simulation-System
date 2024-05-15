@@ -1,4 +1,3 @@
-// CMSC 341 - Fall 2023 - Project 4
 #include "dealer.h"
 #include <random>
 #include <vector>
